@@ -1,57 +1,57 @@
 - ## Diary
 	- February 2023
-		- [[Day 1 - (1 Feb)]]
-		- [[Day 2 - (2 Feb)]]
-		- [[Day 3 - (3 Feb)]]
-		- [[Day 5 - (6 Feb)]]
-		- [[Day 5 - (7 Feb)]]
-		- [[Day 6 - (8 Feb)]] 
-		- [[Day 7 - (9 Feb)]] 
-		- [[Day 8 - (10 Feb)]] 
-		- [[Day 9 - (13 Feb)]] 
-		- [[Day 10 - (14 Feb)]] 
-		- [[Day 11 - (15 Feb)]] 
-		- [[Day 12 - (16 Feb)]] 
-		- [[Day 13 - (17 Feb)]] 
-		- [[Day 14 - (20 Feb)]] 
-		- [[Day 15 - (21 Feb)]] 
-		- [[Day 16 - (22 Feb)]] 
+		- [Day 1 - (1 Feb)](Day%201%20-%20(1%20Feb).md)
+		- [Day 2 - (2 Feb)](Day%202%20-%20(2%20Feb).md)
+		- [Day 3 - (3 Feb)](Day%203%20-%20(3%20Feb).md)
+		- [Day 5 - (6 Feb)](Day%205%20-%20(6%20Feb).md)
+		- [Day 5 - (7 Feb)](Day%205%20-%20(7%20Feb).md)
+		- [Day 6 - (8 Feb)](Day%206%20-%20(8%20Feb).md) 
+		- [Day 7 - (9 Feb)](Day%207%20-%20(9%20Feb).md) 
+		- [Day 8 - (10 Feb)](Day%208%20-%20(10%20Feb).md) 
+		- [Day 9 - (13 Feb)](Day%209%20-%20(13%20Feb).md) 
+		- [Day 10 - (14 Feb)](Day%2010%20-%20(14%20Feb).md) 
+		- [Day 11 - (15 Feb)](Day%2011%20-%20(15%20Feb).md) 
+		- [Day 12 - (16 Feb)](Day%2012%20-%20(16%20Feb).md) 
+		- [Day 13 - (17 Feb)](Day%2013%20-%20(17%20Feb).md) 
+		- [Day 14 - (20 Feb)](Day%2014%20-%20(20%20Feb).md) 
+		- [Day 15 - (21 Feb)](Day%2015%20-%20(21%20Feb).md) 
+		- [Day 16 - (22 Feb)](Day%2016%20-%20(22%20Feb).md) 
 - ## Learning Objectives 
-	- [[CNHi Challenges]] 
-	- [[CNHi Purpose]]  
+	- [CNHi Challenges](CNHi%20Challenges.md) 
+	- [CNHi Purpose](CNHi%20Purpose.md)  
 - ## Improvements 
-	- [[Efficiency Improvements]] 
-	- [[OneDrive Improvements]] 
+	- [Efficiency Improvements](Efficiency%20Improvements.md) 
+	- [OneDrive Improvements](OneDrive%20Improvements.md) 
 - ## Limitations
-	- [[Afraid of Change]] 
-	- [[Collaboration]]
-	- [[Company Culture]] 
-	- [[Efficiency]] 
-	- [[Email Chains]]
-	- [[File Management System]]
-	- [[Lack of Backup]]  
-	- [[Lack of Communication]] 
-	- [[Lack of IT Training]]
-	- [[Lack of Knowledge]] 
-	- [[No Cross Checking]] 
-	- [[Post Check]] 
-	- [[SAP Problem - Serial or Model Numbers]]
-	- [[Severely out of Date]] 
-	- [[Team Cross Talking]] 
-	- [[Tech Support]] 
-	- [[Unintuitive]] 
+	- [Afraid of Change](Afraid%20of%20Change.md) 
+	- [Collaboration](Collaboration.md)
+	- [Company Culture](Company%20Culture.md) 
+	- [Efficiency](Efficiency.md) 
+	- [Email Chains](Email%20Chains.md)
+	- [File Management System](File%20Management%20System.md)
+	- [Lack of Backup](Lack%20of%20Backup.md)  
+	- [Lack of Communication](Lack%20of%20Communication.md) 
+	- [Lack of IT Training](Lack%20of%20IT%20Training.md)
+	- [Lack of Knowledge](Lack%20of%20Knowledge.md) 
+	- [No Cross Checking](No%20Cross%20Checking.md) 
+	- [Post Check](Post%20Check.md) 
+	- [SAP Problem - Serial or Model Numbers](SAP%20Problem%20-%20Serial%20or%20Model%20Numbers.md)
+	- [Severely out of Date](Severely%20out%20of%20Date.md) 
+	- [Team Cross Talking](Team%20Cross%20Talking.md) 
+	- [Tech Support](Tech%20Support.md) 
+	- [Unintuitive](Unintuitive.md) 
 - ## Images
-	- [[Intersegment Loan.png]]
-	- [[Master File Example.png]]
-	- [[Vendor Alignment Task.png]]
+	- [Intersegment Loan](Intersegment%20Loan.png)
+	- [Master File Example](Master%20File%20Example.png)
+	- [Vendor Alignment Task](Vendor%20Alignment%20Task.png)
 - ## Notes
 	- Billing 
-		- [[Case]] 
-		- [[New Holland]]
+		- [Case](Case.md) 
+		- [New Holland](New%20Holland.md)
 	- General Ledger 
-		- [[Note 1]] 
+		- [Note 1](Note%201.md) 
 	- Treasury
-		- [[Borrowing Reports - Perpetual]] 
-		- [[Capital]] 
-		- [[Rachelle Lesson - 1]] 
-		- [[Reconciling Daily Cashflow]] 
+		- [Borrowing Reports - Perpetual](Borrowing%20Reports%20-%20Perpetual.md) 
+		- [Capital](Capital.md) 
+		- [Rachelle Lesson - 1](Rachelle%20Lesson%20-%201.md) 
+		- [Reconciling Daily Cashflow](Reconciling%20Daily%20Cashflow.md) 
