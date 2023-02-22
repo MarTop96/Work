@@ -2,9 +2,9 @@
 
 Doing my study thing for intro to the company. Learning objectives. Who we are, What we do etc.
 
-**[CNHi Purpose](CNHi%20Purpose.md)** of 1. BREAKING NEW GROUND, centres on innovation, sustainability and productivity. (MAIN PURPOSE)
+**[CNHi Purpose](../../Learning%20Objectives/CNHi%20Purpose.md)** of 1. BREAKING NEW GROUND, centres on innovation, sustainability and productivity. (MAIN PURPOSE)
 
-**[CNHi Challenges](CNHi%20Challenges.md)** (number is commitment level, lower is better, closer to 0):
+**[CNHi Challenges](../../Learning%20Objectives/CNHi%20Challenges.md)** (number is commitment level, lower is better, closer to 0):
 
 **(2) Zero Hunger, end hunger:** achieve food security and improved nutrition and promote sustainable agriculture
 
@@ -21,7 +21,7 @@ Doing my study thing for intro to the company. Learning objectives. Who we are, 
 Got given the task of making sure that the SalesForce/SAP entities names align with whats on the invoice, ABN check, and that the entity name on ABN lookup matches. If they don’t match, then have to mark it as System Update Required, and Invoice Update Required.
 
 Example:
-![775x140](Vendor%20Alignment%20Task.png)
+![775x140](../../../Images/Vendor%20Alignment%20Task.png)
 
 
 **Process**:
@@ -41,7 +41,7 @@ Example:
 **Diary Addition:** 
 First 4 hours, had nothing to do, teams were super busy and had to wait for allocation.
 
-Did [onboarding modules](Severely%20out%20of%20Date.md). Finding other recommended modules pointless. Why would I do them? I dont really get anyting from them, theres no incentive, not required and not even marked or given feedback.
+Did [onboarding modules](../../Limitations/Severely%20out%20of%20Date.md). Finding other recommended modules pointless. Why would I do them? I dont really get anyting from them, theres no incentive, not required and not even marked or given feedback.
 
 After lunch got given my first task. Reconcile suppliers, fix the previous persons mistakes.
 1. Check invoice for Entity Name, ABN
@@ -49,4 +49,4 @@ After lunch got given my first task. Reconcile suppliers, fix the previous perso
 3. If no match update either/both.
 4. Update Invoice if needed.
 
-Tedious process. [Faster Ways?](Efficiency.md)
+Tedious process. [Faster Ways?](../../Limitations/Efficiency.md)

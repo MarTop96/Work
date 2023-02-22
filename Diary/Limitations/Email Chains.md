@@ -7,4 +7,4 @@ Due to the [FMS](File%20Management%20System.md) and [lack of communication](Lack
 - **No way to know HOW a file is used.** Do people not use the data and just need the template? Or is my [template terrible for people](Collaboration.md) and ineffective and thus individuals remove the template. It is important to know how a file is used because it can help you determine if the file is necessary for the task at hand, if it is safe to delete, or if it is taking up too much space on your computer. Knowing the purpose of a file can also help you identify any [potential security risks](Lack%20of%20IT%20Training.md) associated with it. Additionally, knowing how a file is used can help you make sure it is being used in the most [efficient](Efficiency.md) way possible. 
 
 
-#### [](Efficiency%20Improvements.md#Email%20Chains%20Solutions%7CSolutions)
+#### [](../Improvements/Efficiency%20Improvements.md#Email%20Chains%20Solutions%7CSolutions)

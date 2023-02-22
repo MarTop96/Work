@@ -6,9 +6,9 @@ Got given Supplier Portal Finance access. So eventually with this task will come
 
 Melanie decided that my help was adequate. Not sure if it was or not, or if shes too polite to say my methods are too different to hers.
 
-My SAP ERP got declined for [](Unintuitive.md#User%20Menus%7Cbeing%20the%20wrong%20type). So redid that to the right type according to what the ticket told me.
+My SAP ERP got declined for [](../../Limitations/Unintuitive.md#User%20Menus%7Cbeing%20the%20wrong%20type). So redid that to the right type according to what the ticket told me.
 
-Also registered for Blackline. [Cant do anything till I have access.](Efficiency.md)
+Also registered for Blackline. [Cant do anything till I have access.](../../Limitations/Efficiency.md)
 
 Jessica tried to give me recon work but was unable to. So Showed me an example of one.
 

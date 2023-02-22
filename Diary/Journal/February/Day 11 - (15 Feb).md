@@ -1,6 +1,6 @@
 ## Wednesday, 13 February 2023
 
-Put in a request with Global IT to fix SAP HR. [Low priority](Tech%20Support.md)... :)
+Put in a request with Global IT to fix SAP HR. [Low priority](../../Limitations/Tech%20Support.md)... :)
 
 Finished off Accounts Payable invoice thingies. Then a meeting occured to set things straight on what it is that I will/should be covering.
 

@@ -18,4 +18,4 @@ OneDrive's inability to allow multiple users to access the same document at the 
 
 In CNHi, names for files aren't even updated for the actual documents. Using files from 2022 instead of the 2023 file, because an individual forgot to update or rollover to the new file. This is entirely unacceptable and extremely inefficient, error prone and just should not occur. Instead of it being remedied, everbody [just accepts](Unintuitive.md) this and works with it. This example of inefficient and error-prone document management is an ongoing issue in CNHi that has been accepted as the [norm](Company%20Culture.md). This lack of proper file management has a far-reaching impact on the organization. Not only does it lead to confusion and frustration, but it also slows down the workflow and can lead to incorrect decisions being made. In addition, it wastes valuable time and resources that could be spent on more productive tasks.
 
-#### [](OneDrive%20Improvements.md#Wrong%20Names%20Solution%7CSolutions)
+#### [](../Improvements/OneDrive%20Improvements.md#Wrong%20Names%20Solution%7CSolutions)

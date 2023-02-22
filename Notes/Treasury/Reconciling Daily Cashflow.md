@@ -163,7 +163,7 @@ CNH Cashflow -> CNHi Masterfile
   
 **Tie Netting to the Dates:** ENSURE IT
 
-![Intersegment Loan](Intersegment%20Loan.png)
+![Intersegment Loan](../../Images/Intersegment%20Loan.png)
 
 Loans are paid at the end of each quarter for the reporting periods.
 

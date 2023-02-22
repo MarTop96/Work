@@ -1,5 +1,5 @@
 
-[Problems of Efficency](Efficiency.md)
+[Problems of Efficency](../Limitations/Efficiency.md)
 
 Excel Addins
 
