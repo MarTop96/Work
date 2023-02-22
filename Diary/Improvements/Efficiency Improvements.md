@@ -1,0 +1,9 @@
+
+[Problems of Efficency](Efficiency.md)
+
+Excel Addins
+
+Might even make a custom addin for each sector, that is specific to their needs, but can obviously use addins from other sectors.
+
+### Email Chains Solution
+Why not implement a basic app that just handles this. People send request, Person who does the approving/rejection, can just see the notification, look at the information, send through an approval/rejection or comment for further, clarification. Keeps a history etc. Might Carry Through To Other Sectors

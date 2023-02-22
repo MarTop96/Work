@@ -1,0 +1,2 @@
+## User Menus
+The absolute ridiculous user menus, and seven-hundred different portals. Why does applying for SAP category access look like a NASA control hub. Why is there a billion portals all different passwords and usernames. 
