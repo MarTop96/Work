@@ -1,2 +1,57 @@
-# Work
-My Notes
+- ## Diary
+	- February 2023
+		- [[Day 1 - (1 Feb)]]
+		- [[Day 2 - (2 Feb)]]
+		- [[Day 3 - (3 Feb)]]
+		- [[Day 5 - (6 Feb)]]
+		- [[Day 5 - (7 Feb)]]
+		- [[Day 6 - (8 Feb)]] 
+		- [[Day 7 - (9 Feb)]] 
+		- [[Day 8 - (10 Feb)]] 
+		- [[Day 9 - (13 Feb)]] 
+		- [[Day 10 - (14 Feb)]] 
+		- [[Day 11 - (15 Feb)]] 
+		- [[Day 12 - (16 Feb)]] 
+		- [[Day 13 - (17 Feb)]] 
+		- [[Day 14 - (20 Feb)]] 
+		- [[Day 15 - (21 Feb)]] 
+		- [[Day 16 - (22 Feb)]] 
+- ## Learning Objectives 
+	- [[CNHi Challenges]] 
+	- [[CNHi Purpose]]  
+- ## Improvements 
+	- [[Efficiency Improvements]] 
+	- [[OneDrive Improvements]] 
+- ## Limitations
+	- [[Afraid of Change]] 
+	- [[Collaboration]]
+	- [[Company Culture]] 
+	- [[Efficiency]] 
+	- [[Email Chains]]
+	- [[File Management System]]
+	- [[Lack of Backup]]  
+	- [[Lack of Communication]] 
+	- [[Lack of IT Training]]
+	- [[Lack of Knowledge]] 
+	- [[No Cross Checking]] 
+	- [[Post Check]] 
+	- [[SAP Problem - Serial or Model Numbers]]
+	- [[Severely out of Date]] 
+	- [[Team Cross Talking]] 
+	- [[Tech Support]] 
+	- [[Unintuitive]] 
+- ## Images
+	- [[Intersegment Loan.png]]
+	- [[Master File Example.png]]
+	- [[Vendor Alignment Task.png]]
+- ## Notes
+	- Billing 
+		- [[Case]] 
+		- [[New Holland]]
+	- General Ledger 
+		- [[Note 1]] 
+	- Treasury
+		- [[Borrowing Reports - Perpetual]] 
+		- [[Capital]] 
+		- [[Rachelle Lesson - 1]] 
+		- [[Reconciling Daily Cashflow]] 
