@@ -1,3 +1,5 @@
+# Table Of Contents
+
 - ## Diary
 	- February 2023
 		- [Day 1 - (1 Feb)](Day%201%20-%20(1%20Feb).md)
