@@ -1,4 +1,4 @@
-## Thursday, 13 February 2023
+## Thursday, 16 February 2023
 
 Started the day off in GL. Right where I am supposed to be.
 
@@ -6,7 +6,7 @@ Started working on a task in Bruce file finding Currency, Incoterms and Payment 
 
 Anyway. Tedious task, spoken and done with Melanie. Have to do it the shithouse long way because [OneDrive](../../Limitations/File%20Management%20System.md). Yay.
 
-Once again, no real file structure, organisation, naming convention. How to find what we need? Maybe a [](../../Improvements/OneDrive%20Improvements.md#Ouija%20Board%7COuija%20Board)?
+Once again, no real file structure, organisation, naming convention. How to find what we need? Maybe a [](../../Improvements/FMS%20Improvements.md#Ouija%20Board%7COuija%20Board)?
 
 Another problem as usual. Everyone uses their own templates meaning ["I dont get what yours means"](../../Limitations/Collaboration.md).
 

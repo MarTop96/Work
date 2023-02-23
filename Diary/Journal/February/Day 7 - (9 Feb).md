@@ -8,4 +8,4 @@ Nicole then asked me to do the Master CNHIA Daily cashflow in the finance/accoun
 
 At first it was confusing because values were misplaced. Eventually figured that out and realised values are received from [](../../Limitations/File%20Management%20System.md#Wrong%20names%7CCNH%20Cashflow%20Actual%20v%20Forecast%202022).
 
-So far training is ridicuous. Ties back into horrible [OneDrive](../../Limitations/File%20Management%20System.md). No clue which files are linked to what, what relies on what. Need a [](../../Improvements/OneDrive%20Improvements.md#Data%20Dictionary%7CData%20Dictionary). On top of the file management overhaul, people need to be taught how to teach/train someone, or have someone dedicated for it.
+So far training is ridicuous. Ties back into horrible [OneDrive](../../Limitations/File%20Management%20System.md). No clue which files are linked to what, what relies on what. Need a [](../../Improvements/FMS%20Improvements.md#Data%20Dictionary%7CData%20Dictionary). On top of the file management overhaul, people need to be taught how to teach/train someone, or have someone dedicated for it.

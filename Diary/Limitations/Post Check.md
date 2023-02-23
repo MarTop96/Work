@@ -1,0 +1,3 @@
+When there is no post checking or follow-up after a process has been completed, errors or inefficiencies can go unnoticed until they cause a problem. For example, my time in Billing saw this occur first hand. An approval was processed in a previous date. I had begun to ask questions in order to learn, and due to pure luck, that specific job was chosen in order to explain. I had noticed that although it had been approved, a week or so later, it had actually been rejected. Due to their being no form of post check, or notification system, or anything to alert to this post approval edit, this job would have gone through and would have cost the company money.
+
+#### [Possible Improvements](../Improvements/Post%20Check%20Improvements.md)

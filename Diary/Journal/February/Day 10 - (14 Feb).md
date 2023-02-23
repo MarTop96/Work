@@ -1,4 +1,4 @@
-## Tuesday, 13 February 2023
+## Tuesday, 14 February 2023
 
 Started doing more treasury and as shit was getting more complex I found out.. Ive been pulled from treasury.
 

@@ -11,7 +11,7 @@ Encountered an issue where it was approved, but then post approval a rejection h
 **<u>New SAP system.</u>**
 
 - Problem of discounts not being loaded in time. Leads down to another email chain > upload etc.
-- [SAP Problem - Serial or Model Numbers](../../Limitations/SAP%20Problem%20-%20Serial%20or%20Model%20Numbers.md): Discounts and such applied to model and serial number. If a product is the same, but has two different model numbers, than those discounts don’t autoload. 
+- [SAP Problem](../../Limitations/SAP%20Problem.md): Discounts and such applied to model and serial number. If a product is the same, but has two different model numbers, than those discounts don’t autoload. 
 
 
 **Diary Addition:** Problem is from what I see, [Lack of Backup](../../Limitations/Lack%20of%20Backup.md), too much focus on each individual.
