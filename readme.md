@@ -1,3 +1,4 @@
+# Table Of Contents
 - ## Diary
 	- February 2023
 		- [Day 1 - (1 Feb)](Diary/Journal/February/Day%201%20-%20(1%20Feb).md) 
@@ -38,6 +39,7 @@
 	- [Lack of Communicaton Improvements](Diary/Improvements/Lack%20of%20Communicaton%20Improvements.md) 
 	- [Lack of IT Training Improvements](Diary/Improvements/Lack%20of%20IT%20Training%20Improvements.md) 
 	- [Lack of Knowledge Improvements](Diary/Improvements/Lack%20of%20Knowledge%20Improvements.md) 
+	- [Lack Of Teamwork Improvements](Diary/Improvements/Lack%20of%20Teamwork%20Improvements.md)
 	- [Post Check Improvements](Diary/Improvements/Post%20Check%20Improvements.md) 
 	- [SAP Improvements](Diary/Improvements/SAP%20Improvements.md) 
 	- [Severely out of Date Improvements](Diary/Improvements/Severely%20out%20of%20Date%20Improvements.md) 
@@ -56,6 +58,7 @@
 	- [Lack of Communication](Diary/Limitations/Lack%20of%20Communication.md) 
 	- [Lack of IT Training](Diary/Limitations/Lack%20of%20IT%20Training.md)
 	- [Lack of Knowledge](Diary/Limitations/Lack%20of%20Knowledge.md) 
+	- [Lack of Teamwork](Diary/Limitations/Lack%20Of%20Teamwork.md)
 	- [Post Check](Diary/Limitations/Post%20Check.md) 
 	- [SAP Problem](Diary/Limitations/SAP%20Problem.md)
 	- [Severely out of Date](Diary/Limitations/Severely%20out%20of%20Date.md) 
@@ -75,4 +78,4 @@
 		- [Borrowing Reports - Perpetual](Notes/Treasury/Borrowing%20Reports%20-%20Perpetual.md) 
 		- [Capital](Notes/Treasury/Capital.md) 
 		- [Rachelle Lesson - 1](Notes/Treasury/Rachelle%20Lesson%20-%201.md) 
-		- [Reconciling Daily Cashflow](Notes/Treasury/Reconciling%20Daily%20Cashflow.md) 
+		- [Reconciling Daily Cashflow](Notes/Treasury/Reconciling%20Daily%20Cashflow.md)

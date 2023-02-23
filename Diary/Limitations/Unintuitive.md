@@ -1,5 +1,5 @@
 ## User Menus
-The amount of unfriendly GUIs certain employees encounter, or the amount of portals they encounter, is absolutely unintuitive, inefficent and an extreme overload. Looking at any form of SAP GUI is awful. Whether its registering, or accessing components.
+The amount of unfriendly GUIs certain employees encounter, or the amount of portals they encounter, is absolutely unintuitive, inefficient and an extreme overload. Looking at any form of SAP GUI is awful. Whether its registering, or accessing components.
 
 Unfriendly graphical user interfaces (GUIs) and multiple web portals can create significant challenges for workers in various ways. Here are some of the reasons:
 1. Increased cognitive load: Unfriendly GUIs and multiple web portals can increase the cognitive load on workers by requiring them to remember different sets of instructions, commands, and interface elements for each system. This can lead to increased mental fatigue, decreased productivity, and more errors.
