@@ -16,7 +16,7 @@
 		- [Day 14 - (20 Feb)](Diary/Journal/February/Day%2014%20-%20(20%20Feb).md) 
 		- [Day 15 - (21 Feb)](Diary/Journal/February/Day%2015%20-%20(21%20Feb).md) 
 		- [Day 16 - (22 Feb)](Diary/Journal/February/Day%2016%20-%20(22%20Feb).md) 
-		- [Day 17 - (23 Feb)](Diary/Journal/February/Day%2017%20-%20(23%20Feb).md)
+		- [Day 17 - (23 Feb)](Diary/Journal/February/Day%2017%20-%20(23%20Feb).md) 
 - ## Learning Objectives 
 	- 1. General Ledger 
 		- [1.1 Reconciliations](Diary/Learning%20Objectives/1.%20General%20Ledger/1.1%20Reconciliations.md) 
