@@ -19,7 +19,7 @@
 		- [Day 16 - (22 Feb)](Diary/Journal/February/Day%2016%20-%20(22%20Feb).md) 
 		- [Day 17 - (23 Feb)](Diary/Journal/February/Day%2017%20-%20(23%20Feb).md)
 - ## Learning Objectives 
-	- 1. General Ledger 
+	- General Ledger 
 		- [1.1 Reconciliations](Diary/Learning%20Objectives/1.%20General%20Ledger/1.1%20Reconciliations.md) 
 		- [1.2 Key Accounting Deadlines](Diary/Learning%20Objectives/1.%20General%20Ledger/1.2%20Key%20Accounting%20Deadlines.md) 
 		- [1.3 Create Post & Review](Diary/Learning%20Objectives/1.%20General%20Ledger/1.3%20Create%20Post%20&%20Review.md) 
@@ -40,7 +40,7 @@
 	- [Lack of Communicaton Improvements](Diary/Improvements/Lack%20of%20Communicaton%20Improvements.md) 
 	- [Lack of IT Training Improvements](Diary/Improvements/Lack%20of%20IT%20Training%20Improvements.md) 
 	- [Lack of Knowledge Improvements](Diary/Improvements/Lack%20of%20Knowledge%20Improvements.md) 
-	- [Lack Of Teamwork Improvements](Diary/Improvements/Lack%20of%20Teamwork%20Improvements.md)
+	- [Lack of Teamwork Improvements](Diary/Improvements/Lack%20of%20Teamwork%20Improvements.md)
 	- [SAP Improvements](Diary/Improvements/SAP%20Improvements.md) 
 	- [Severely out of Date Improvements](Diary/Improvements/Severely%20out%20of%20Date%20Improvements.md) 
 	- [Tech Support Improvements](Diary/Improvements/Tech%20Support%20Improvements.md) 
@@ -58,7 +58,7 @@
 	- [Lack of Communication](Diary/Limitations/Lack%20of%20Communication.md) 
 	- [Lack of IT Training](Diary/Limitations/Lack%20of%20IT%20Training.md)
 	- [Lack of Knowledge](Diary/Limitations/Lack%20of%20Knowledge.md) 
-	- [Lack of Teamwork](Lack%20of%20Teamwork.md)
+	- [Lack of Teamwork](Diary/Limitations/Lack%20of%20Teamwork.md)
 	- [SAP Problem](Diary/Limitations/SAP%20Problem.md)
 	- [Severely out of Date](Diary/Limitations/Severely%20out%20of%20Date.md) 
 	- [Tech Support](Diary/Limitations/Tech%20Support.md) 
