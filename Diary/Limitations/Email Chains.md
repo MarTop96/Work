@@ -1,3 +1,5 @@
+# Email Chains
+
 Endless email chains back and forth for just basic information. 
 Due to the [FMS](File%20Management%20System.md) and [lack of communication](Lack%20of%20Communication.md) or [team to team](Cross-Talking.md):
 - **No way to know WHO uses a file.** I only know the file IS used. Not knowing who uses a file on the computer is important because it ensures the privacy and security of the file. If someone else were to gain access to the file, they could use the information stored in it for malicious purposes. Additionally, if the file contains confidential information, it is important to keep it secure and not allow anyone else to access it.
@@ -7,4 +9,4 @@ Due to the [FMS](File%20Management%20System.md) and [lack of communication](Lack
 - **No way to know HOW a file is used.** Do people not use the data and just need the template? Or is my [template terrible for people](Collaboration.md) and ineffective and thus individuals remove the template. It is important to know how a file is used because it can help you determine if the file is necessary for the task at hand, if it is safe to delete, or if it is taking up too much space on your computer. Knowing the purpose of a file can also help you identify any [potential security risks](Lack%20of%20IT%20Training.md) associated with it. Additionally, knowing how a file is used can help you make sure it is being used in the most [efficient](Efficiency.md) way possible. 
 
 
-#### [Email Chain Improvements](../Improvements/Email%20Chain%20Improvements)
+#### [Email Chains Improvements](Email%20Chains%20Improvements.md)

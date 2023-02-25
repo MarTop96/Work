@@ -1,3 +1,4 @@
+# Afraid of Change
 Being afraid of change can hinder a worker's ability to perform efficiently because it can cause them to become stuck in a routine and not be open to new ideas and processes. 
 
 #### **Examples**: 

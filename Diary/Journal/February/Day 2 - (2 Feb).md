@@ -2,9 +2,9 @@
 
 Doing my study thing for intro to the company. Learning objectives. Who we are, What we do etc.
 
-**[CNHi Purpose](../../Learning%20Objectives/CNHi%20Purpose.md)** of 1. BREAKING NEW GROUND, centres on innovation, sustainability and productivity. (MAIN PURPOSE)
+**[CNHi Purpose](CNHi%20Purpose.md)** of 1. BREAKING NEW GROUND, centres on innovation, sustainability and productivity. (MAIN PURPOSE)
 
-**[CNHi Challenges](../../Learning%20Objectives/CNHi%20Challenges.md)** (number is commitment level, lower is better, closer to 0):
+**[CNHi Challenges](CNHi%20Challenges.md)** (number is commitment level, lower is better, closer to 0):
 
 **(2) Zero Hunger, end hunger:** achieve food security and improved nutrition and promote sustainable agriculture
 

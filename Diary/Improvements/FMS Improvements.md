@@ -1,3 +1,4 @@
+# FMS Improvements
 ## Naming Conventions
 
 ## Data Dictionary
@@ -16,7 +17,7 @@ In summary, data dictionaries play a crucial role in managing data and maintaini
 Black magic may be used to help find files?
 
 ## Wrong Names Solution Idea
-The root cause of this issue is a lack of proper oversight and control, which should be addressed immediately. The organization should [create and enforce policies](../Limitations/Company%20Culture.md) that require documents to be updated and rolled over in a timely manner. Furthermore, they should provide [training and support](../Limitations/Lack%20of%20IT%20Training.md) to ensure that everyone understands the importance of proper document management. Finally, they should ensure that all documents are properly labeled and organized, so that they can be easily located and accessed. By taking these steps, CNHi can ensure that their document management system is efficient, effective, and secure.
+The root cause of this issue is a lack of proper oversight and control, which should be addressed immediately. CNHi should [create and enforce policies](../Limitations/Company%20Culture.md) that require documents to be updated and rolled over in a timely manner. Furthermore, they should provide [training and support](../Limitations/Lack%20of%20IT%20Training.md) to ensure that everyone understands the importance of proper document management. Finally, they should ensure that all documents are properly labeled and organized, so that they can be easily located and accessed. By taking these steps, CNHi can ensure that their document management system is efficient, effective, and secure.
 
 First idea is a REAL Masterfile. Not a fake one. One master file, styled one certain way and that’s it. Everyone has to input their information into this ONE key file. Everyone can then access their required data from this one KEY file into their own individual file. The Masterfile will essentially be the data host. Contains the same style, never changed, only added values. Everyone picks from it, makes their data, then returns their data back into the Masterfile.
 

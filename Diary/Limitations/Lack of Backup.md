@@ -1,3 +1,5 @@
+# Lack of Backup
+
 ## Staff 
 #### **Examples**
 1. I spoke with "X", about how they came into their role. They had said, before they moved into this new role intercompany, they were told there would be in-company training. The previous individual who would be leaving the company, would train them. Upon arriving for the first day of training, the individual had found out that not only did that individual already leave, there was not going to be any training, and that their first day in their new role begun at that moment. This individual was then thrusted into the new role, and having had no training, was just told to swim.

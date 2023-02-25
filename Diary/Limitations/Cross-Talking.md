@@ -1,17 +1,21 @@
-### Team on Team engagement
-When teams "cross-talk" and communicate with each other about their work and its purpose, it can help build a more comprehensive understanding of the organization's goals and how each team contributes to them. For example, if the sales team understands how the marketing team generates leads, they can work more effectively to convert those leads into customers.
+# Cross-Talking
 
-Understanding how reports or data are used can also help teams improve their work. In the case of the report mentioned, knowing who is using it and why can help the report creator tailor the report to better meet the needs of its users, or even identify opportunities for new reports that better serve the organization.
+The absence of cross-talk or cross-team communication in CNHi can create significant limitations and can affect the overall performance and productivity of CNHi. When communication is limited, employees may not have a clear understanding of why certain tasks or reports are necessary, leading to confusion, errors, and misunderstandings. This lack of communication can lead to a lack of direction and coordination, resulting in missed deadlines and missed opportunities.
 
-Effective communication and collaboration between teams can also promote a sense of shared purpose and encourage everyone to work together towards common goals. This can foster a more positive and productive work environment, where everyone feels valued and motivated to contribute to the organization's success.
+Within teams, the lack of cross-talk can lead to silos, where individuals work independently without sharing information or collaborating effectively. This can create a lack of cohesion and teamwork, resulting in a lack of shared knowledge and a decreased ability to solve complex problems. It can also lead to duplication of effort and a waste of resources, as employees may not be aware of what their colleagues are working on.
 
-Cross-talk and open communication between teams can help improve understanding, collaboration, and efficiency within an organization. By sharing information about their work and its purpose, teams can better align their efforts, improve the quality of their work, and ultimately contribute to the organization's success.
+Additionally, not having cross-talk between teams can lead to a lack of understanding and coordination between different parts of CNHi. This can create inefficiencies and a lack of synergy, resulting in delays and missed opportunities. It can also lead to a lack of alignment between different teams, resulting in conflicts and misunderstandings.
 
+As a result, employees may not be able to perform their tasks as efficiently as possible, which can lead to delays and a decrease in productivity. It can also lead to a lack of motivation and engagement among employees, as they may not feel valued or included in the overall direction of CNHi.
 
+#### **For Example**: 
+<u>"I need this report."</u>
 
+It is evident that communication is only seen as necessary when there is an urgent need for it. This mindset can create limitations, as it can lead to a lack of collaboration and cooperation between different teams and departments. Without proper communication, employees may not have access to essential information, such as who posted certain items or why specific reports are necessary. This lack of understanding can lead to a lack of ownership and accountability, resulting in a lack of urgency and commitment towards the task.
 
-Hardly cross team communication, "I need this report." But Why. Communication only feels necessary when they HAVE to communicate.
+<u>"Don’t even know who posted things sometimes, it's literally anonymous, I just know It's for me."</u>
 
-Don’t even know who posted things sometimes, it's literally anonymous, I just know It's for me.
+Furthermore, the anonymous nature of communication can also create limitations. When employees do not know who is responsible for certain tasks, they may not know who to reach out to when they have questions or need assistance. This can lead to a lack of support and guidance, resulting in employees feeling unsupported and overwhelmed. Additionally, anonymous communication can create an environment of distrust and suspicion, which can negatively impact the overall culture of CNHi.
+
 
 #### [Possible Improvements](../Improvements/Cross-Talking%20Improvements.md)

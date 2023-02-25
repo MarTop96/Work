@@ -1,3 +1,5 @@
+# Lack of Communication
+
 ### In Teams:
 In order for teams to work successfully, they must clearly communicate with each other. Teams must be able to trust each other and [collaborate](Collaboration.md) in order to ensure that tasks are completed effectively. It is also important that team members respect and support each other, and any disagreements should be discussed openly and with respect. 
 
