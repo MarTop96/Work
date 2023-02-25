@@ -24,8 +24,8 @@
 		- [1.3 Create Post & Review](Diary/Learning%20Objectives/1.%20General%20Ledger/1.3%20Create%20Post%20&%20Review.md) 
 		- [1.4 Key Accounting Processes - Month End](Diary/Learning%20Objectives/1.%20General%20Ledger/1.4%20Key%20Accounting%20Processes%20-%20Month%20End.md) 
 	- CNH 
-		- [CNHi Challenges](CNHi%20Challenges.md) 
-		- [CNHi Purpose](CNHi%20Purpose.md)  
+		- [CNHi Challenges](Diary/CNH/CNHi%20Challenges) 
+		- [CNHi Purpose](Diary/CNH/CNHi%20Purpose.md)  
 - ## Improvements 
 	- [Afraid of Change Improvements](Diary/Improvements/Afraid%20of%20Change%20Improvements.md) 
 	- [Collaboration Improvements](Diary/Improvements/Collaboration%20Improvements.md) 
